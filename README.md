@@ -1,7 +1,4 @@
 # Zain's Studio
-![alt text](https://github.com/racmathafidz/racxstudio/blob/master/src/assets/images/screely.png)
-
-### About
 A Tech Business portfolio website built with ReactJS and TailwindCSS :computer:
 
 ### Tech Stack
